@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.dozerendas.com.br/</loc>
+    <lastmod>2024-11-23T13:42:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.dozerendas.com.br/início</loc>
+    <lastmod>2024-11-23T13:42:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.dozerendas.com.br/política-de-privacidade</loc>
+    <lastmod>2024-11-23T13:42:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.dozerendas.com.br/contato</loc>
+    <lastmod>2024-11-23T13:42:06+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+</urlset>
